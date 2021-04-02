@@ -6,7 +6,7 @@
 - run `node test-nos.nl`
 
 Should print the temperature in the Netherlands for today in celsius,
-as is display at the top right on the NOS website.
+as is displayed at the top right on the NOS website.
 
 ## Tactic for getting data from the OV website
 
